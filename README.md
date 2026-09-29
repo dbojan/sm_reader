@@ -5,4 +5,4 @@ Mobile and desktop.
 
 PWA app, comming soon.
 
-![screen01](images/screen01.png)
+![screen01](screen01.png)
