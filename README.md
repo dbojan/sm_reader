@@ -5,8 +5,6 @@ Mobile and desktop.
 
 Menu and position are hide-able.
 
-Install from github, or ...
-
-PWA app, comming soon.
+PWA app, preview available for now.
 
 ![screen01](screen01.png)
