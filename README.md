@@ -1,5 +1,5 @@
 # sm_reader
-Mirror or old ms (Microsoft) book reader, with white page on black background
+Mirror or old ms (Microsoft) book reader, white page on black background
 
 Mobile and desktop.
 
